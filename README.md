@@ -1,7 +1,21 @@
-# Intel_OneAPI_OCR
+
 <div align="center">
-<img src="https://tse4.mm.bing.net/th?id=OIP.EjH8jvL6VEFZMHvl358LrgHaEo&pid=Api&P=0" alt="image_text" >
+<img src="https://partner.utk.edu/wp-content/uploads/sites/77/2021/10/oneapi-lp-banner.png" >
 </div>
+
+# Intel OneAPI
+<br>
+oneAPI is an open, cross-industry, standards-based, unified, multiarchitecture, multi-vendor programming model that delivers a common developer experience across accelerator architectures – for faster application performance, more productivity, and greater innovation. The oneAPI initiative encourages collaboration on the oneAPI specification and compatible oneAPI implementations across the ecosystem.
+
+
+One of the main advantages of using Intel OneAPI is its performance. By optimizing code for specific hardware, developers can achieve significant performance improvements compared to running code on a generic platform. This is particularly important for applications that require high-performance computing, such as machine learning and scientific simulations.
+
+
+# Intel_OneAPI_OCR
+<div align="center" style= width:"10px">
+<img width="500px"  src="https://www.comidor.com/wp-content/uploads/2022/08/ocr-55-e1661521818617-1024x569.png" > 
+</div>
+
 &nbsp &nbsp Digitization the Handwritten or Photo characters was a manual
 process in before days. This was a time consuming thing and it is manually
 expensive. Such handwritten or image characters are difficult to read by 
@@ -28,3 +42,12 @@ output , which is very useful for visual- impaired people.
 &nbsp &nbsp In conclusion, This OCR system using Intel OneAPI has
 potential to digitalize the handwritten and predict it in a higher
 accuracy and time-efficiency.
+
+# Problem statement 
+<br>
+Design and develop an OCR system that can accurately recognize and convert printed or handwritten text from scanned images into editable digital text format, while maintaining the original format and layout of the document. The system should be able to handle a variety of fonts, styles, and  sizes, and have a high level of accuracy and speed in processing large volumes of documents.
+
+
+<div align="center" style= width:"10px">
+<img width="500px"  src="https://global-uploads.webflow.com/636bdbebfc681f083e923f81/63861eb172507319cde904f2_5f86968bee2e67ec3c263075_OCR.jpeg" > 
+</div>
