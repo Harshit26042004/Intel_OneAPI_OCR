@@ -55,4 +55,10 @@ Design and develop an OCR system that can accurately recognize and convert print
 # Trained with Intel
 <br>
 With the help of Intel OneAPI we trained our model .And below is the snap of the code we developed in Intel devcloud with TENSORFLOW AI TOOLKIT
-<img src="Screenshot 2023-04-30 192512.png" alt="sample-notebook"
+<img src="https://github.com/Harshit26042004/Intel_OneAPI_OCR/blob/main/Screenshot%202023-04-30%20192512.png" alt="sample-notebook">
+
+# Deployment 
+<br>
+We deployed our model with the help of Streamlit as a web app.
+Users can browse their files,Upload it ,And model will automatically detect and recognise the characters in that image.The sample of the deployment page is attached below
+<img src="https://github.com/Harshit26042004/Intel_OneAPI_OCR/blob/main/Screenshot%202023-04-30%20192231.png" alt="deployment-img">
