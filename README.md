@@ -16,7 +16,7 @@ One of the main advantages of using Intel OneAPI is its performance. By optimizi
 <img width="500px"  src="https://www.comidor.com/wp-content/uploads/2022/08/ocr-55-e1661521818617-1024x569.png" > 
 </div>
 
-&nbsp &nbsp Digitization the Handwritten or Photo characters was a manual
+ Digitization the Handwritten or Photo characters was a manual
 process in before days. This was a time consuming thing and it is manually
 expensive. Such handwritten or image characters are difficult to read by 
 visual-impaired people. This Traditional method can be overcome with the 
@@ -24,22 +24,22 @@ help of this OCR (Optical Character Recognition) System.In this
 project,we propose a deep learning- based OCR system which will be more
 accurate and efficient with the help of Intel OneAPI platform.
 <br>
-&nbsp &nbsp The proposed system uses a convolutional neural
+ The proposed system uses a convolutional neural
 network(CNN)model to detect the characters from the image. The model
 is trained on a large Dataset of labelled images using the OneAPI 
 Platform.
 <br>
-&nbsp &nbsp The Image is collected and organised for the classification of
+ The Image is collected and organised for the classification of
 characters and letters.The characters are detected with CNN models and 
 trained with OneAPI platform in accurate and efficient manner , Where text
 characters are extracted separately.
 <br>
-&nbsp &nbsp Further , The trained model can predict the sample data images in
+ Further , The trained model can predict the sample data images in
 accurate and time-efficient way based on Intel machines , including CPU
 and GPU's.With Add-On feature , we will also try to implement audio as an 
 output , which is very useful for visual- impaired people.
 <br>
-&nbsp &nbsp In conclusion, This OCR system using Intel OneAPI has
+ In conclusion, This OCR system using Intel OneAPI has
 potential to digitalize the handwritten and predict it in a higher
 accuracy and time-efficiency.
 
@@ -51,3 +51,7 @@ Design and develop an OCR system that can accurately recognize and convert print
 <div align="center" style= width:"10px">
 <img width="500px"  src="https://global-uploads.webflow.com/636bdbebfc681f083e923f81/63861eb172507319cde904f2_5f86968bee2e67ec3c263075_OCR.jpeg" > 
 </div>
+
+#Trained with Intel
+<br>
+With the help of Intel OneAPI we trained our model .And below is the snap of the code we developed in Intel devcloud with TENSORFLOW AI TOOLKIT
