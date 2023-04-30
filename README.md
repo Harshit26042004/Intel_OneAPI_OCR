@@ -52,6 +52,7 @@ Design and develop an OCR system that can accurately recognize and convert print
 <img width="500px"  src="https://global-uploads.webflow.com/636bdbebfc681f083e923f81/63861eb172507319cde904f2_5f86968bee2e67ec3c263075_OCR.jpeg" > 
 </div>
 
-#Trained with Intel
+# Trained with Intel
 <br>
 With the help of Intel OneAPI we trained our model .And below is the snap of the code we developed in Intel devcloud with TENSORFLOW AI TOOLKIT
+<img src="Screenshot 2023-04-30 192512.png" alt="sample-notebook"
